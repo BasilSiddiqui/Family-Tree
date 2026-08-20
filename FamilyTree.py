@@ -487,7 +487,7 @@ for index, generation in enumerate(generations):
 # ============================================================
 
 fig, ax = plt.subplots(
-    figsize=(28, 18)
+    figsize=(28, 3)
 )
 
 
@@ -863,7 +863,7 @@ ax.text(
     0.5,
     1.02,
 
-    "Family Tree",
+    "Siddiqui Family Tree",
 
     transform=ax.transAxes,
 
